@@ -87,7 +87,6 @@
 
 .post{
   margin-top: 10px;
-  margin-bottom: 40px;
 }
 
 .upper_message{
@@ -107,6 +106,7 @@
 
 .lower_message{
   margin-top: 10px;
+  margin-bottom: 40px;
 }
 
 .posted_message{
